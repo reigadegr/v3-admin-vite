@@ -3,7 +3,7 @@ name: Build And Deploy v3-admin-vite
 on:
   push:
     branches:
-      - main
+      - bc431f35
 
 jobs:
   build-and-deploy:
